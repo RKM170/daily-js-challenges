@@ -1,43 +1,18 @@
-# Day 01 - Print Table
+# 🚀 JavaScript Logic Practice
 
-## Problem
+I'm improving my JavaScript problem-solving skills by solving logic questions every day.
 
-Write a JavaScript function to print the multiplication table of a given number.
+## Progress
 
-## Code
+| Day | Problem | Status |
+|-----|---------|--------|
+| Day 01 | Print Table | ✅ |
 
-```javascript
-function table(number) {
-  for (var i = 1; i <= 10; i++) {
-    var res = i * number;
-    console.log(res);
-  }
-}
+## Goal
 
-table(2);
-```
+- Learn JavaScript deeply
+- Improve programming logic
+- Build consistency
+- Prepare for React and interviews
 
-## Output
-
-```
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
-```
-
-## Concepts Used
-
-- Functions
-- for Loop
-- Variables
-- Arithmetic Operators
-- console.log()
-
----
+Happy Coding! 🚀
